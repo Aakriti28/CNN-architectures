@@ -13,7 +13,7 @@ P.S. - You might come across new terms here. Instead of just overlooking them, t
 - Exhausted by all the math? Here's an article to get you motivativated - [Applications of CNNs](https://machinelearningmastery.com/applications-of-deep-learning-for-computer-vision/).
 
 
-### Week 2-3 | Learning Pytorch
+### Week 2 | Learning Pytorch
 
 - Libraries like PyTorch and Tensorflow make implementing neural nets a bliss. PyTorch's [60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) will help you get started. It's recommended that you type your own code as well.
 
@@ -22,13 +22,13 @@ P.S. - You might come across new terms here. Instead of just overlooking them, t
 - You can now do further PyTorch [tutorials](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html). The above course would help you understand these examples better. Make your own [Google Colab](https://colab.research.google.com/) notebooks and tinker around. It's important to try out various values of hyperparameters for better practical learning.
 
 
-### Week 4 | Attempting a Kaggle Challenge
+### Week 3 | Attempting a Kaggle Challenge
 
 - [MNIST](http://yann.lecun.com/exdb/mnist/) dataset is a large database of handwritten digits. Pytorch has a [tutorial](https://pytorch.org/tutorials/beginner/nn_tutorial.html) to train your NN on the MNIST dataset. You can leave the [CNN](https://pytorch.org/tutorials/beginner/nn_tutorial.html#switch-to-cnn) part for now.
 
 - Kaggle is a community of data scientists where you can find a vast variety of datasets and competitions to hone your skills. Try attempting this Kaggle Challenge to get started - [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer).
 
-### Week 5 | CNNs
+### Week 4 | CNNs
 
 - Convolutional Neural Networks have been considered revolutionary in processing images. Read either of these articles to get an understanding of how they work - 
 	+ [CNN in PyTorch](https://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-in-pytorch/)
