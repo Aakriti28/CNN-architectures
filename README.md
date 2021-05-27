@@ -42,7 +42,7 @@ P.S. - You might come across new terms here. Instead of just overlooking them, t
 
 - We will now start with understanding the significance of CNN architecture. In case you have never read a research paper before, here is a guide to get you started - [How to Read a Research Paper](https://www.youtube.com/watch?v=SHTOI0KtZnU).
 
-- It might be overwhelming to read this paper but it is strongly recommended that you do read at least one of them - 
+- It might be overwhelming to read a paper but it is strongly recommended that you do read at least one of them - 
  	1. [AlexNet](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
  	2. [VGGNet](https://arxiv.org/pdf/1409.1556.pdf)
  	3. [ResNet](https://arxiv.org/pdf/1512.03385.pdf)
