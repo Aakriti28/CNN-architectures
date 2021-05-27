@@ -49,14 +49,14 @@ P.S. - You might come across new terms here. Instead of just overlooking them, t
  	4. [GoogleNet](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf)
 
 - It is okay even if you do not understand all of it. These articles might come handy -
-	+[AlexNet: The Architecture that Challenged CNNs](https://towardsdatascience.com/alexnet-the-architecture-that-challenged-cnns-e406d5297951)
-	+[VGGNet Architecture Explained](https://medium.com/analytics-vidhya/vggnet-architecture-explained-e5c7318aa5b6)
-	+[Understanding and Implementing Architectures of ResNet](https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cf51669e1624)
-	+[A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
+	+ [AlexNet: The Architecture that Challenged CNNs](https://towardsdatascience.com/alexnet-the-architecture-that-challenged-cnns-e406d5297951)
+	+ [VGGNet Architecture Explained](https://medium.com/analytics-vidhya/vggnet-architecture-explained-e5c7318aa5b6)
+	+ [Understanding and Implementing Architectures of ResNet](https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cf51669e1624)
+	+ [A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
 	
 - Read about comparison between these architectures to understand how their development happened and why they are considered as milestones in image processing -
-	+[Difference between AlexNet, VGGNet, ResNet, and Inception](https://towardsdatascience.com/the-w3h-of-alexnet-vggnet-resnet-and-inception-7baaaecccc96)
-	+[The pioneering CNN models in the ILSVRC through the years](https://medium.com/analytics-vidhya/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)
+	+ [Difference between AlexNet, VGGNet, ResNet, and Inception](https://towardsdatascience.com/the-w3h-of-alexnet-vggnet-resnet-and-inception-7baaaecccc96)
+	+ [The pioneering CNN models in the ILSVRC through the years](https://medium.com/analytics-vidhya/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)
 
 ### 6 | Implementing Architectures
 
