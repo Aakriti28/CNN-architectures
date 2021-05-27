@@ -1,7 +1,7 @@
 # A Deep Dive into CNNs
 ***
 
-### Week 1 | Getting Started
+### 1 | Getting Started
 
 - To get a basic understanding what a Neural Network is, watch this excellent playlist by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi). 
 
@@ -13,7 +13,7 @@ P.S. - You might come across new terms here. Instead of just overlooking them, t
 - Exhausted by all the math? Here's an article to get you motivativated - [Applications of CNNs](https://machinelearningmastery.com/applications-of-deep-learning-for-computer-vision/).
 
 
-### Week 2 | Learning Pytorch
+### 2 | Learning Pytorch
 
 - Libraries like PyTorch and Tensorflow make implementing neural nets a bliss. PyTorch's [60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) will help you get started. It's recommended that you type your own code as well.
 
@@ -22,13 +22,13 @@ P.S. - You might come across new terms here. Instead of just overlooking them, t
 - You can now do further PyTorch [tutorials](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html). The above course would help you understand these examples better. Make your own [Google Colab](https://colab.research.google.com/) notebooks and tinker around. It's important to try out various values of hyperparameters for better practical learning.
 
 
-### Week 3 | Attempting a Kaggle Challenge
+### 3 | Attempting a Kaggle Challenge
 
 - [MNIST](http://yann.lecun.com/exdb/mnist/) dataset is a large database of handwritten digits. Pytorch has a [tutorial](https://pytorch.org/tutorials/beginner/nn_tutorial.html) to train your NN on the MNIST dataset. You can leave the [CNN](https://pytorch.org/tutorials/beginner/nn_tutorial.html#switch-to-cnn) part for now.
 
 - Kaggle is a community of data scientists where you can find a vast variety of datasets and competitions to hone your skills. Try attempting this Kaggle Challenge to get started - [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer).
 
-### Week 4 | CNNs
+### 4 | CNNs
 
 - Convolutional Neural Networks have been considered revolutionary in processing images. Read either of these articles to get an understanding of how they work - 
 	+ [CNN in PyTorch](https://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-in-pytorch/)
@@ -37,3 +37,39 @@ P.S. - You might come across new terms here. Instead of just overlooking them, t
 - [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html) is an established computer-vision dataset. Attempt a related challenge on Kaggle - [Object Recognition](https://www.kaggle.com/c/cifar-10).
 
 - Try implementing CNN models for classification problems on your own. This article will guide you as to how you can [Create your own dataset](https://towardsdatascience.com/how-to-create-your-own-image-dataset-for-deep-learning-b53f1c22c443).
+
+### 5 | CNN Architectures
+
+- We will now start with understanding the significance of CNN architecture. In case you have never read a research paper before, here is a guide to get you started - [How to Read a Research Paper](https://www.youtube.com/watch?v=SHTOI0KtZnU).
+
+- It might be overwhelming to read this paper but it is strongly recommended that you do read at least one of them - 
+ 	1. [AlexNet](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
+ 	2. [VGGNet](https://arxiv.org/pdf/1409.1556.pdf)
+ 	3. [ResNet](https://arxiv.org/pdf/1512.03385.pdf)
+ 	4. [GoogleNet](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf)
+
+- It is okay even if you do not understand all of it. These articles might come handy -
+	+[AlexNet: The Architecture that Challenged CNNs](https://towardsdatascience.com/alexnet-the-architecture-that-challenged-cnns-e406d5297951)
+	+[VGGNet Architecture Explained](https://medium.com/analytics-vidhya/vggnet-architecture-explained-e5c7318aa5b6)
+	+[Understanding and Implementing Architectures of ResNet](https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cf51669e1624)
+	+[A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
+	
+- Read about comparison between these architectures to understand how their development happened and why they are considered as milestones in image processing -
+	+[Difference between AlexNet, VGGNet, ResNet, and Inception](https://towardsdatascience.com/the-w3h-of-alexnet-vggnet-resnet-and-inception-7baaaecccc96)
+	+[The pioneering CNN models in the ILSVRC through the years](https://medium.com/analytics-vidhya/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)
+
+### 6 | Implementing Architectures
+
+- 
+
+### 7 | Transfer Learning
+
+
+### 8 | Applications of CNNS
+
+
+We hope this plan helps you in getting a better understanding of **"the most interesting idea in the last 10 years in Machine Learning"** as described by Yann LeCun. If on your learning path you discover some more efficient resources, we would be more than happy to incorporate them here. Just [create a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on this repository.
+
+***
+
+<p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
