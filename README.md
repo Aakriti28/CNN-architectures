@@ -69,6 +69,10 @@ P.S. - You might come across new terms here. Instead of just overlooking them, t
 
 ### 7 | Transfer Learning
 
+- Transfer learning is a research problem in machine learning that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. Here is [a brief introduction](https://www.geeksforgeeks.org/ml-introduction-to-transfer-learning/) to get you familiar with the concept.
+- It is time to use off the shelf models from torchvision, this [guide on using transfer learning for computer vision] (https://towardsdatascience.com/transfer-learning-with-convolutional-neural-networks-in-pytorch-dd09190245ce) will help you get started with it. 
+- Try experimenting aroung the different pretrained models, an article on [using pretained CNNs in pytorch](https://towardsdatascience.com/using-predefined-and-pretrained-cnns-in-pytorch-e3447cbe9e3c) gives good insights.
+
 
 ### 8 | Applications of CNNS
 
