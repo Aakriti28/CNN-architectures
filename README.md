@@ -72,6 +72,10 @@ P.S. - You might come across new terms here. Instead of just overlooking them, t
 - Transfer learning is a research problem in machine learning that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. Here is [a brief introduction](https://www.geeksforgeeks.org/ml-introduction-to-transfer-learning/) to get you familiar with the concept.
 - It is time to use off the shelf models from torchvision, this [guide on using transfer learning for computer vision](https://towardsdatascience.com/transfer-learning-with-convolutional-neural-networks-in-pytorch-dd09190245ce) will help you get started with it. 
 - Try experimenting aroung the different pretrained models, an article on [using pretained CNNs in pytorch](https://towardsdatascience.com/using-predefined-and-pretrained-cnns-in-pytorch-e3447cbe9e3c) gives good insights.
+- Since this a broad topic to explore and helps you utilize the framework's power, try using more complex datasets and experiment with the new layers you add at the end of pre-trained layers. Here are some more references to help with transfer learning in PyTorch - 
+	+ [Using Pre-trained models and their comparison](https://learnopencv.com/pytorch-for-beginners-image-classification-using-pre-trained-models/)
+	+ [An edgy article on Image Classification](https://medium.com/walmartglobaltech/tackling-multi-class-image-classification-problem-with-transfer-learning-using-pytorch-50150b215fb6)
+	+ [A Vanilla tutorial on transfer learning for computer vision](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
 
 
 ### 8 | Applications of CNNS
