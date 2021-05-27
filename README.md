@@ -63,8 +63,9 @@ P.S. - You might come across new terms here. Instead of just overlooking them, t
 - Now that you are done with the reading part, lets get our hands hands dirty! For the purpose of getting familiar with coding CNNs, implement AlexNet and VGGNet from scratch. These references might come in handy -
 	+ [Scratch to SOTA: Build Famous Classification Nets 2 (AlexNet/VGG)](https://medium.com/swlh/scratch-to-sota-build-famous-classification-nets-2-alexnet-vgg-50a4f55f7f56)
 	+ [An awesome repository for tutorial and reference](https://medium.com/swlh/scratch-to-sota-build-famous-classification-nets-2-alexnet-vgg-50a4f55f7f56)
+	(If you are feeling adventurous try implementing ResNet too!)
 	
-- Use an external dataset instead of the built-in ones in pytorch to understand more about dataset reading and data loader creation. Some recommendations for image classification are - Caltech 101, Fashion MNIST, Food-101, Oxford-102-Flowers, Oxford-IIIT-Pets, Stanford-Cars etc
+- Use an external dataset instead of the built-in ones in pytorch to understand more about dataset reading and data loader creation. Some reasonable size datasets for image classification are - Caltech 101, Fashion MNIST, Food-101, Oxford-102-Flowers, Oxford-IIIT-Pets, Stanford-Cars etc
 
 ### 7 | Transfer Learning
 
