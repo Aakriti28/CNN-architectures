@@ -65,7 +65,7 @@ P.S. - You might come across new terms here. Instead of just overlooking them, t
 	+ [An awesome repository for tutorial and reference](https://medium.com/swlh/scratch-to-sota-build-famous-classification-nets-2-alexnet-vgg-50a4f55f7f56)
 	(If you are feeling adventurous try implementing ResNet too!)
 	
-- Use an external dataset instead of the built-in ones in pytorch to understand more about dataset reading and data loader creation. Some reasonable size datasets for image classification are - Caltech 101, Fashion MNIST, Food-101, Oxford-102-Flowers, Oxford-IIIT-Pets, Stanford-Cars etc
+- Use an external dataset instead of the built-in ones in pytorch to understand more about dataset reading and data loader creation. Some reasonable size datasets for image classification are - [Caltech 101](https://www.kaggle.com/athota1/caltech101), [Caltech 256](https://www.kaggle.com/jessicali9530/caltech256), [Fashion MNIST](https://www.kaggle.com/zalando-research/fashionmnist), [Food-101](https://www.kaggle.com/kmader/food41?select=images), [Oxford-102-Flowers](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/), [Oxford-IIIT-Pets](https://www.kaggle.com/tanlikesmath/the-oxfordiiit-pet-dataset), [Stanford-Cars](https://www.kaggle.com/jessicali9530/stanford-cars-dataset), [Stanford-Dogs](https://www.kaggle.com/jessicali9530/stanford-dogs-dataset), [Intel Scene](https://www.kaggle.com/puneet6060/intel-image-classification) etc.
 
 ### 7 | Transfer Learning
 
@@ -74,15 +74,16 @@ P.S. - You might come across new terms here. Instead of just overlooking them, t
 - Try experimenting aroung the different pretrained models, an article on [using pretained CNNs in pytorch](https://towardsdatascience.com/using-predefined-and-pretrained-cnns-in-pytorch-e3447cbe9e3c) gives good insights.
 - Since this a broad topic to explore and helps you utilize the framework's power, try using more complex datasets and experiment with the new layers you add at the end of pre-trained layers. Here are some more references to help with transfer learning in PyTorch - 
 	+ [Using Pre-trained models and their comparison](https://learnopencv.com/pytorch-for-beginners-image-classification-using-pre-trained-models/)
-	+ [An edgy article on Image Classification](https://medium.com/walmartglobaltech/tackling-multi-class-image-classification-problem-with-transfer-learning-using-pytorch-50150b215fb6)
 	+ [A vanilla tutorial on transfer learning for computer vision](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
+	+ [An edgy tutorial on transfer learning for computer vision](https://medium.com/walmartglobaltech/tackling-multi-class-image-classification-problem-with-transfer-learning-using-pytorch-50150b215fb6)
 
 
 ### 8 | Applications of CNNS
+*yet to be updated*
 
 
 ### 9 | Conclusion
-We hope this plan helps you in getting a better understanding of **"the most interesting idea in the last 10 years in Machine Learning"** as described by Yann LeCun. If on your learning path you discover some more efficient resources, we would be more than happy to incorporate them here. Just [create a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on this repository.
+We hope this plan helps you in getting a better understanding Convolutional neural networks which functioned as backbones for many computer vision tasks. If on your learning path you discover some more efficient resources, we would be more than happy to incorporate them here. Just [create a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on this repository.
 
 ***
 
