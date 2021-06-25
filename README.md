@@ -62,7 +62,7 @@ P.S. - You might come across new terms here. Instead of just overlooking them, t
 
 - Now that you are done with the reading part, lets get our hands hands dirty! For the purpose of getting familiar with coding CNNs, implement AlexNet and VGGNet from scratch. These references might come in handy -
 	+ [Scratch to SOTA: Build Famous Classification Nets 2 (AlexNet/VGG)](https://medium.com/swlh/scratch-to-sota-build-famous-classification-nets-2-alexnet-vgg-50a4f55f7f56)
-	+ [An awesome repository for tutorial and reference](https://medium.com/swlh/scratch-to-sota-build-famous-classification-nets-2-alexnet-vgg-50a4f55f7f56)
+	+ [An awesome repository for tutorial and reference](https://github.com/bentrevett/pytorch-image-classification)
 	(If you are feeling adventurous try implementing ResNet too!)
 	
 - Use an external dataset instead of the built-in ones in pytorch to understand more about dataset reading and data loader creation. Some reasonable size datasets for image classification are - [Caltech 101](https://www.kaggle.com/athota1/caltech101), [Caltech 256](https://www.kaggle.com/jessicali9530/caltech256), [Fashion MNIST](https://www.kaggle.com/zalando-research/fashionmnist), [Food-101](https://www.kaggle.com/kmader/food41?select=images), [Oxford-102-Flowers](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/), [Oxford-IIIT-Pets](https://www.kaggle.com/tanlikesmath/the-oxfordiiit-pet-dataset), [Stanford-Cars](https://www.kaggle.com/jessicali9530/stanford-cars-dataset), [Stanford-Dogs](https://www.kaggle.com/jessicali9530/stanford-dogs-dataset), [Intel Scene](https://www.kaggle.com/puneet6060/intel-image-classification) etc.
