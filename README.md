@@ -79,7 +79,15 @@ P.S. - You might come across new terms here. Instead of just overlooking them, t
 
 
 ### 8 | Applications of CNNS
-*yet to be updated*
+Some applications worth exploring are as follows - 
+- [Image Classification With Localization](https://theaisummer.com/Localization_and_Object_Detection/)
+- [Object Detection](https://machinelearningmastery.com/object-recognition-with-deep-learning/)
+- [Object Segmentation](https://medium.com/visionwizard/object-segmentation-4fc67077a678)
+- [Image Style Transfer](https://medium.com/data-science-group-iitr/artistic-style-transfer-with-convolutional-neural-network-7ce2476039fd)
+- [Image Colorization](https://towardsdatascience.com/colorizing-black-white-images-with-u-net-and-conditional-gan-a-tutorial-81b2df111cd8)
+- [Image Reconstruction](https://www.sciencedirect.com/science/article/pii/S2667102621000061)
+- [Image Super-Resolution](https://towardsdatascience.com/an-evolution-in-single-image-super-resolution-using-deep-learning-66f0adfb2d6b)
+- [Image Synthesis](https://machinelearningmastery.com/impressive-applications-of-generative-adversarial-networks/)
 
 
 ### 9 | Conclusion
